@@ -1,6 +1,6 @@
 # Topic Title
 
-![](url for an image about your topic)
+![](https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/bltbe582204aeeff242/66707b1b10fde34db2a4a164/facts-about-oranges-1200x675-1.jpg)
 
 
 
